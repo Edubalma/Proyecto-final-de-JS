@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "nombre": "VODKA",
+        "precio": 1750,
+        "img": "./img/absolut.png"
+        
+    },
+    {
+        "id": 1,
+        "nombre": "GIN",
+        "precio": 2000,
+        "img": "./img/bebida3.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "VODKA",
+        "precio": 800,
+        "img": "./img/bebida1.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "COCA-COLA",
+        "precio": 4000,
+        "img": "./img/bebida4.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "FERNET",
+        "precio": 1400,
+        "img": "./img/bebida5.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "BAILEYS",
+        "precio": 4000,
+        "img": "./img/bebida6.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "TIA MARIA",
+        "precio": 3500,
+        "img": "./img/bebida7.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "VINO",
+        "precio": 2000,
+        "img": "./img/bebida8.jpg"
+    }
+  
+    ]

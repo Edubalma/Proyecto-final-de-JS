@@ -1,0 +1,84 @@
+body{
+    background-color: #110f0fea;
+  }
+  header, .alert{
+    z-index: 100;
+  }
+  .description{
+    height: 25px;
+    overflow: hidden;
+    transition: height .3s ease-in .3s;
+  }
+  .description:hover{
+    height: 80px;
+  }
+  .carrito{
+    min-height: 80vh;
+    max-width: 1000px;
+    margin: 0 auto;
+    width: 100%;
+  }
+  .table__productos{
+    display: flex;
+  }
+  .table__productos > img{
+    width: 9rem;
+    object-fit: contain;
+    border-radius: 6px;
+    margin-right: 20px;
+  }
+  .table__cantidad > input{
+    width: 40px;
+    border: none;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 700;
+    margin-right: 30px;
+    margin-bottom: 20px;
+  }
+  .hide, .remove, .buy{
+    display: none;
+  }
+  form{
+    width: 450px;
+    margin: auto;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border-radius: 7px;
+  }
+  .ctos{
+    color: blue;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+  }
+  textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+  }
+  #boton{
+    background: #31384A;
+    color: #fff;
+    padding: 20px;
+  }
+  #boton:hover {
+    cursor: pointer;
+  }
+
+  @media (max-width:480px){
+    form{
+      width: 100%;
+    }
+  }

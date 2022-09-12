@@ -1,0 +1,52 @@
+[
+    {
+        "id": 0,
+        "nombre": "vodka",
+        "precio": 750,
+        "img": "./img/bebida2.jpg"
+        
+    },
+    {
+        "id": 1,
+        "nombre": "gin",
+        "precio": 2000,
+        "img": "./img/bebida3.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "vodka",
+        "precio": 800,
+        "img": "./img/bebida1.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "coca-cola",
+        "precio": 4000,
+        "img": "./img/bebida4.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "fernet",
+        "precio": 200,
+        "img": "./img/bebida5.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "baileys",
+        "precio": 200,
+        "img": "./img/bebida6.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "tia maria",
+        "precio": 200,
+        "img": "./img/bebida7.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "vino",
+        "precio": 200,
+        "img": "./img/bebida8.jpg"
+    }
+  
+    ]
